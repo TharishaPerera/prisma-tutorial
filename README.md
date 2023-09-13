@@ -4,7 +4,7 @@ Prisma is a modern ORM (Object-Relational Mapping) tool that allows you to inter
 
 This GitHub repository demonstrates how to use Prisma ORM with a Node project that uses TypeScript and SQLite as the database. By following the code examples and instructions in this repository, you can get started with Prisma and see how it can simplify your database interactions.
 
-To get started with Prisma, follow these instructions:
+**To get started with Prisma, follow these instructions:**
 
 1. Initialize a `Node` project
     
@@ -37,7 +37,7 @@ To get started with Prisma, follow these instructions:
     ```
 
 
-Other useful CLI commands
+**Other useful CLI commands**
 
 1. To create a migration
     
