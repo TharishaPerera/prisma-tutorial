@@ -35,9 +35,9 @@ To get started with Prisma, follow these instructions:
     ```jsx
     npx prisma init --datasource-provider sqlite
     ```
-    
 
-### Other useful CLI commands
+
+Other useful CLI commands
 
 1. To create a migration
     
